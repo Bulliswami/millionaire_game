@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.cover {
+    background: url("./mill.jpg");
+    width: 100%;
+    height: 312px;
+}
